@@ -26,3 +26,6 @@ body {
   cursor: pointer;
   border-radius: 8px;
 }
+
+.visitor {
+  padding:15px 32px;
